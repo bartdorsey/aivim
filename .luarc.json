@@ -1,0 +1,21 @@
+{
+    "workspace.library": [
+        "/home/echo/.local/share/aivim/site/pack/packer/start/lua-dev.nvim/types/nightly",
+        "/home/echo/.local/share/bob/nightly/nvim-linux64/share/nvim/runtime/lua",
+        "/home/echo/.local/share/aivim/site/pack/packer/start/cmp-buffer/lua",
+        "/home/echo/.local/share/aivim/site/pack/packer/start/cmp-nvim-lsp/lua",
+        "/home/echo/.local/share/aivim/site/pack/packer/start/cmp-path/lua",
+        "/home/echo/.local/share/aivim/site/pack/packer/start/lsp_signature.nvim/lua",
+        "/home/echo/.local/share/aivim/site/pack/packer/start/lua-dev.nvim/lua",
+        "/home/echo/.local/share/aivim/site/pack/packer/start/mason.nvim/lua",
+        "/home/echo/.local/share/aivim/site/pack/packer/start/null-ls.nvim/lua",
+        "/home/echo/.local/share/aivim/site/pack/packer/start/nvim-cmp/lua",
+        "/home/echo/.local/share/aivim/site/pack/packer/start/nvim-lspconfig/lua",
+        "/home/echo/.local/share/aivim/site/pack/packer/start/nvim-treesitter/lua",
+        "/home/echo/.local/share/aivim/site/pack/packer/start/packer.nvim/lua",
+        "/home/echo/.local/share/aivim/site/pack/packer/start/plenary.nvim/lua",
+        "/home/echo/.local/share/aivim/site/pack/packer/start/telescope.nvim/lua",
+        "/home/echo/.local/share/aivim/site/pack/packer/start/tokyonight.nvim/lua",
+        "${3rd}/luv/library"
+    ]
+}
